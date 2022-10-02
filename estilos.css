@@ -1,0 +1,151 @@
+* {
+    box-sizing: border box;
+}
+
+.barra-ppal{
+    font-size: 20px;
+    font-weight: bolder;
+    justify-content: space-between;
+background-color: rgba(53,58,64,255);
+color: #d4dbed;
+   }
+.codoacodo{
+    background-color:rgba(53,58,64,255);
+    color: #d4dbed;
+}
+   .barra-dos{
+    justify-content: space-between;
+   
+   }
+
+.titulobsas{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+}
+.ba1{
+    position: relative;
+    display: inline-block;
+}
+.conferencia-bsas{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 80%;
+    font-size: 50px;
+    color: aliceblue;
+    font-weight: bold;}
+    .segundo{
+        display: inline-block;
+    }
+
+.honolulu{ 
+    background-color: #353a40;
+    color: #fdebcb;
+
+}
+.honolulu2{
+    width: 100%;
+    height: auto;
+}
+.presentacion-evento{
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-size: 28px;
+    color:#fffeff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+
+}
+.la-conferencia{
+    width: 100%;
+ padding: 0% ;
+margin: 0%;
+opacity: 0.93;}
+
+.columna-card {
+    width: 400px;
+    border-color: rgb(145, 137, 137);
+
+}
+.orador{
+    position: absolute;
+    width: 15%;
+    height: 5%;
+    border-color: aliceblue;
+    margin-top: 40%;
+    margin-right: 80%;
+    margin-left: 50%;
+    color: white;
+    
+}
+.Tickets{
+    position: absolute;
+    width: 15%;
+    height: 5%;
+    border-color: aliceblue;
+    margin-top: 40%;
+    margin-right: 80%;
+    margin-left: 70%;
+    color: white;
+    background-color: #29a744;
+
+}
+.buenos-aires {
+
+font-family:Arial, Helvetica, sans-serif;
+text-align: justify;
+font-size: 22px;
+margin-top: 5%;
+background-color: #353a40;
+}
+.conocemas{
+   
+    width: 20%;
+    height: 10%;
+    border-color: aliceblue;
+    color: white;
+    background-color: rgba(53,58,64,255);
+    font-size: 18px;
+    margin-left: 1%;
+    font-family: Arial, Helvetica, sans-serif
+;}
+.textarea :: placeholder{
+    padding: 1%;
+    font-size: 25px;
+
+}
+
+.btn-enviar {
+    border:none;
+    border-radius:5px ;
+background-color: rgba(116, 182, 17, 0.918);
+color: antiquewhite;
+font-size: 25px;
+padding: 0.5%;
+}
+.barra-tres{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: right;
+    background-color:#1e516e ;
+    color:#d7dbda;
+    margin-top: 10%;
+    padding-top: 2%;
+
+}
+.nav-link1 {
+    color:#d7dbda ;
+    padding-left: 1%;
+}
+ .nav-link2{
+    color:#d7dbda ;
+     padding-left: 1%;
+
+ }   
